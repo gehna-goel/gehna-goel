@@ -11,7 +11,7 @@ Feel free to explore my projects, and reach out if you'd like to collaborate or 
 - Always learning lately exploring **vibe coding, AI-native design workflows, and community product design**
 - Open to collaborating on **product design, UX research, or anything at the intersection of design and AI**
 - Ask me about **design systems, usability research, K-pop fandom UX, or how to run a design critique**
-- ⚡ Fun facts:
+- Fun facts:
   - I help run a design club called **Bad Designers Club** — we believe you have to be bad before you're good
   - I write about **UX and design thinking** on [Substack](https://gehnagoel.substack.com)
   - I once redesigned an entire platform based on a 3-day diary study with fans across 4 continents
