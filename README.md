@@ -47,6 +47,6 @@ Feel free to explore my projects, and reach out if you'd like to collaborate or 
 
 ### 📬 Let's connect
 
-- 🌐 Portfolio: [gehnagoel.com](https://gehnagoel.com)
+- 🌐 Portfolio: [gehnagoel.com](https://www.gehnagoel.com)
 - 💼 LinkedIn: [linkedin.com/in/gehna-goel](https://linkedin.com/in/gehna-goel)
 - ✍️ Substack: [gehnagoel.substack.com](https://gehnagoel.substack.com)
